@@ -5,7 +5,7 @@
 - 🌱 I’m currently working with Unity
 - 💬 Ask me about anything!
 - 📫 How to reach me: batuhankg1997@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The richest cat in the world had 7-million-pound which is way more than my lifetime salary 😄
 
 <!--
 **batuhank1997/batuhank1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
